@@ -1,0 +1,67 @@
+.h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(24, 24, 87);
+    color:white;
+    padding:20px;
+}   
+.div1{
+    margin-top: 0px;
+    display:flex;
+    flex-direction: row;
+}
+.img1{
+    border-radius: 250px;
+    margin-left:400px;
+    margin-top:20px;
+}
+.img1:hover{
+    opacity: 0.6;
+    cursor:hand;
+}
+.img2{
+    margin-top:45px;
+    margin-left:20px;
+}
+.img2:hover{
+    opacity: 0.6;
+}
+.img3{
+    margin-left: 40px;
+    margin-top: 40px;;
+}
+.img3:hover{
+    opacity: 0.6;
+}
+.div4{
+    text-align:center;
+}
+.h4{
+    background-color: aquamarine;
+    font-size: 24px;
+    padding:20px;
+    margin-left: 700px;
+    width:180px;
+    text-align: center;
+    border-radius: 50px;
+    border:4px double black;
+   
+}
+.para1{
+    text-align: center;
+}
+.flex{
+    display:flex;
+    flex-direction:row;
+    text-align:center;
+    margin-left:700px;
+}
+.score{
+    font-size:34px;
+}
+.you{
+    margin-left:20px;
+    font-size:26px;
+    font-weight: bold;
+}
+
